@@ -1,0 +1,31 @@
+//#include <stdlib.h>
+//#include <stdio.h>
+//#include <sys/types.h>
+//
+//#ifdef _WIN32
+//#include <winsock2.h>
+//#include <windows.h>
+//#include <ws2tcpip.h>
+//#else
+//#include <arpa/inet.h>
+//#include <sys/socket.h>
+//#include <netdb.h>
+//#include <netinet/in.h>
+//#endif
+
+//void resolve_container_ip_and_hostname(char* hostname){
+//    struct addrinfo* res;
+//    char* hostaddr;
+//    struct sockaddr_in* saddr;
+//
+//    if (0 != getaddrinfo(hostname, NULL, NULL, &res)) {
+//        log_error("Error in resolving hostname %s", hostname);
+//        exit(1);
+//    }
+//
+//    saddr = (struct sockaddr_in*)res->ai_addr;
+//    hostaddr = inet_ntoa(saddr->sin_addr);
+//
+//    log_info("Address for %s is %s\n", hostname, hostaddr);
+//    exit(0);
+//}

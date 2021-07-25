@@ -1,0 +1,5 @@
+build/
+conan/
+libs/
+test
+cmake-build-build/
