@@ -1,7 +1,7 @@
 libs/***
 conan/***
 build/***
-cmake-build-test
+cmake-build-test/***
 ### C template
 # Prerequisites
 *.d
