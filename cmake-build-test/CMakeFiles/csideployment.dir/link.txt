@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import   CMakeFiles/csideployment.dir/main.c.o -o bin/csideployment.exe -Wl,--out-implib,lib/libcsideployment.dll.a -Wl,--major-image-version,0,--minor-image-version,0   -LC:/Users/Burak/.conan/data/log.c/cci.20200620/_/_/package/e7f059b160c47521e5d7dc1bb3c88e4e680a28bc/lib  -llog.c ../libs/ip/libip.so 

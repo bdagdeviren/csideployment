@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Burak/CLionProjects/csideployment/cmake-build-test/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Burak/CLionProjects/csideployment/cmake-build-test/CMakeFiles/csideployment.dir
-/cygdrive/c/Users/Burak/CLionProjects/csideployment/cmake-build-test/CMakeFiles/edit_cache.dir
