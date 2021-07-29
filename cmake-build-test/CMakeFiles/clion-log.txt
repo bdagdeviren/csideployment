@@ -1,0 +1,22 @@
+C:\Users\Burak\AppData\Local\JetBrains\CLion2021.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/Burak/CLionProjects/csideployment
+-- The C compiler identification is GNU 9.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Cmake Source Dirs: /cygdrive/c/Users/Burak/CLionProjects/csideployment
+-- Including Libs Directories: 
+-- Including Libs Directories: libs/ip/libip.so
+-- Including Src Directories: 
+-- Conan: Adjusting output directories
+-- Conan: Using cmake global configuration
+-- Conan: Adjusting default RPATHs Conan policies
+-- Conan: Adjusting language standard
+-- This project seems to be plain C, using 'GNU' compiler
+-- Current conanbuildinfo.cmake directory: /cygdrive/c/Users/Burak/CLionProjects/csideployment/conan
+-- Conan: Compiler GCC>=5, checking major version 9
+-- Conan: Checking correct version: 9
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Burak/CLionProjects/csideployment/cmake-build-test

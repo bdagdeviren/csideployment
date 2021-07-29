@@ -29,3 +29,12 @@
 //    log_info("Address for %s is %s\n", hostname, hostaddr);
 //    exit(0);
 //}
+
+    printf("Enter path of source file: ");
+    scanf("%s", path);
+
+    printf("Enter word to replace: ");
+    scanf("%s", oldWord);
+
+    printf("Replace '%s' with: ");
+    scanf("%s", newWord);
